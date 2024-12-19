@@ -7,3 +7,5 @@ The first focues on optimization theories, probabilistic modeling, and various r
 The other centers on finance, particularly insights and experiences related to the South Korean financial market.
 
 I hope visitors to his blog will find the content helpful and informative.
+
+On Dec 19th 2024, CST
