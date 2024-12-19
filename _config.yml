@@ -3,6 +3,6 @@ description: A blog about operations research and finance.
 author: Jihyun Kang
 email: jhkang463@gatech.edu
 baseurl: "" 
-url: "https://jkang918.github.io"
+url: "https://jkang918.github.io/technical_blog"
 
 theme: minima
