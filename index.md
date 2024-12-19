@@ -1,5 +1,3 @@
-# Welcome to My Blog!
-
 This blog aims to cover two main topics;
 
 The first focues on optimization theories, probabilistic modeling, and various relevant computational methods that I am currently studying as part of my MS program in Operations Research at Georgia Tech.
