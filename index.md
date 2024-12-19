@@ -8,5 +8,5 @@ The other centers on finance, particularly insights and experiences related to t
 
 I hope visitors to his blog will find the content helpful and informative.
 
-On Dec 19th 2024, CST
+On Dec 19th 2024, CST\
 Jihyun Kang
